@@ -2,10 +2,21 @@
 UnicornDevCraft/UnicornDevCraft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# 🌟 Welcome to My GitHub! 🌟  <br><br>Hello there! I'm Kseniia Usyk, an aspiring **Front-End Developer** with a passion for creating clean, user-friendly, and visually engaging websites. 🚀  <br><br> ✨ I’m currently working on improving my skills in **HTML**, **CSS**, and **JavaScript**, and exploring the magic of **React**.  <br>🌱 I’m on a learning journey with courses like Harvard’s **CS50** and Meta’s **Front-End Developer Certification**.  <br>🔗 Check out my latest project: [Little Lemon Restaurant](https://unicorndevcraft.github.io/little-lemon/). <br><br><br>🌟 Fun Fact  <br>I owe some of my problem-solving success to my trusty companion, the **holy rubber ducky** 🐥 — my favorite debugging buddy!  <br><br><br> 📫 Let's Connect!  <br> [Email](mailto:kseniia.usyk@outlook.com) <br> [LinkedIn](www.linkedin.com/in/kseniia-usyk)  <br> [Portfolio Website](link-to-portfolio-website)  <br><br><br>✨ Thank you for visiting my GitHub! Let's build something amazing together. 💻<br>
+## 🌟 Welcome to My GitHub! 🌟<br><br>
+Hello there! I'm Kseniia Usyk, an aspiring **Front-End Developer** with a passion for creating clean, user-friendly, and visually engaging websites.🚀<br><br> 
+✨ I’m currently working on improving my skills in **HTML**, **CSS**, and **JavaScript**, and exploring the magic of **React**.<br>
+🌱 I’m on a learning journey with courses like Harvard’s **CS50** and Meta’s **Front-End Developer Certification**.<br>
+🔗 Check out my latest project: [Little Lemon Restaurant](https://unicorndevcraft.github.io/little-lemon/).<br><br>
+### 🌟 Fun Fact  <br>
+I owe some of my problem-solving success to my trusty companion, the **holy rubber ducky** 🐥 — my favorite debugging buddy!<br><br>
+## 📫 Let's Connect!  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Email](mailto:kseniia.usyk@outlook.com)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[LinkedIn](www.linkedin.com/in/kseniia-usyk)<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;[Portfolio Website](link-to-portfolio-website) <br><br><br>
+### ✨ Thank you for visiting my GitHub! Let's build something amazing together. 💻<br><br>
 
 
-# 🌐 Socials:
+## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kseniia.korovkina) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kseniia.usyk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kseniia-Usyk) 
 
 # 💻 Tech Stack:
@@ -15,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=UnicornDevCraft&theme=omni&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UnicornDevCraft&theme=omni&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=UnicornDevCraft&theme=omni&no-frame=false&no-bg=true&margin-w=4)
 
 ---
